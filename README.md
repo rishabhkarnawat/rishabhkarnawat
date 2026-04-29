@@ -7,7 +7,7 @@ building at the intersection of finance, ai, and algorithmic trading
 
 what i'm working on
 
-recombyne.com   
+[recombyne.com ](https://recombyne.com/)  
 ai-powered platform to map, predict, and model human emotions  
 → building systems to understand behavioral patterns  
 → exploring emotional data + predictive modeling  
