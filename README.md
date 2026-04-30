@@ -1,6 +1,6 @@
 ## hey, i am rishabh 👋
 
-mathematics and informatics + mathematics @ indiana university bloomington  
+informatics + mathematics @ indiana university bloomington  
 building at the intersection of finance, ai, and algorithmic trading  
 
 ---
